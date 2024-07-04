@@ -1,0 +1,1 @@
+scp -P 21098 -r -i /home/ramu/namecheap/id_rsa ./dist/* trypbusn@192.64.117.83:./api
